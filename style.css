@@ -4,4 +4,7 @@
 }
 h1 {
   font-size: 60px;
+  background: linear-gradient(to left, blue, red);
+  -webkit-text-fill-color: transparent;
+ 
 }
