@@ -15,11 +15,14 @@ h1 {
 }
 .btn {
   padding: 20px;
-  background: blue;
+  background: gray;
   border: none;
 }
 body {
   background-image: url(./mac.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  min-height: 100vh;
+  background-position: center;
+  background-color: #3b8d99;
 }
