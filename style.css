@@ -15,4 +15,6 @@ h1 {
 }
 .btn {
   padding: 20px;
+  background: blue;
+  border: none;
 }
