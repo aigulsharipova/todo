@@ -26,3 +26,16 @@ body {
   background-position: center;
   background-color: #3b8d99;
 }
+.toDoAdded {
+  background: pink;
+  list-style-type: none;
+  height: 60px;
+  width: 50%;
+  text-align: center;
+  color: azure;
+  font-size: 20px;
+  border-bottom: 1px solid black;
+}
+.toDoContainer {
+  
+}
