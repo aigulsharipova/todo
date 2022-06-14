@@ -34,7 +34,7 @@ body {
   text-align: center;
   color: azure;
   font-size: 20px;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid white;
 }
 .toDoContainer {
   display: flex;

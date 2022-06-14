@@ -8,4 +8,5 @@ const item = document.createElement('li');
 item.innerText = inputField.value;
 item.classList.add('toDoAdded');
 toDoContainer.appendChild(item);
+inputField.value = '';
 })
