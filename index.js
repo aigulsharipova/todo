@@ -12,4 +12,9 @@ inputField.value = '';
 
 item.addEventListener('click', function(){
   item.classList.add('toDoCompleted')})
+
+  item.addEventListener('dbclick', function() {
+    toDoContainer.removeChild(item);
+  })
 })
+
