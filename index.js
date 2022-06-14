@@ -9,4 +9,7 @@ item.innerText = inputField.value;
 item.classList.add('toDoAdded');
 toDoContainer.appendChild(item);
 inputField.value = '';
+
+item.addEventListener('click', function(){
+  item.classList.add('toDoCompleted')})
 })
