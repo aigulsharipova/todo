@@ -4,4 +4,6 @@ const inputField = document.querySelector('.inputField');
 
 buttonAdd.addEventListener('click', function(){
 const item = document.createElement('li');
+item.innerText = inputField.value;
+todoContainer.appendChild(item);``
 })

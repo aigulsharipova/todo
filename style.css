@@ -19,10 +19,10 @@ h1 {
   border: none;
 }
 body {
-  background-image: url(./mac.jpg);
+  background-image: url(./coffe.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 100vh;
+  min-height: 200vh;
   background-position: center;
   background-color: #3b8d99;
 }
