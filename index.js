@@ -1,9 +1,10 @@
-const buttonAdd = document.querySelector('.btn');
-const todoContainer = document.querySelector('.todoContainer');
 const inputField = document.querySelector('.inputField');
+const btn = document.querySelector('.btn');
+const toDoContainer = document.querySelector('.toDoContainer');
 
-buttonAdd.addEventListener('click', function(){
+
+btn.addEventListener('click', function(){
 const item = document.createElement('li');
 item.innerText = inputField.value;
-todoContainer.appendChild(item);``
+toDoContainer.appendChild(item);
 })
