@@ -43,7 +43,7 @@ body {
 }
 .toDoCompleted {
   background: #3b8d99;
-  color: black;
+  color: #000000;
   font-weight: bold;
   text-decoration: line-through;
   transition: all 1s ease;

@@ -11,9 +11,10 @@ toDoContainer.appendChild(item);
 inputField.value = '';
 
 item.addEventListener('click', function(){
-  item.classList.add('toDoCompleted')})
+  item.classList.add('toDoCompleted')
+})
 
-  item.addEventListener('dbclick', function() {
+  item.addEventListener('dblclick', function() {
     toDoContainer.removeChild(item);
   })
 })
