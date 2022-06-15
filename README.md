@@ -13,7 +13,8 @@ A simple planner.
 - JavaScript
 - GitHub
 - Glitch
- ***
+
+---
 
 ## Screenshot 📸
 
