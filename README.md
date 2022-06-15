@@ -2,7 +2,7 @@
 
 A simple planner.
 
-- ## [Planner](https://developer-todo.herokuapp.com/)
+- ## [Planner](https://branched-roasted-sting.glitch.me/)
 
 ---
 
@@ -12,7 +12,7 @@ A simple planner.
 - CSS
 - JavaScript
 - GitHub
-- Heroku
+- Glitch
 - ***
 
 ## Screenshots 📸
