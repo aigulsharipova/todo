@@ -15,6 +15,6 @@ A simple planner.
 - Glitch
 - ***
 
-## Screenshots 📸
+## Screenshot 📸
 
 ![Example](/screenshot.jpg)
