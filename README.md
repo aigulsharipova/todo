@@ -2,7 +2,7 @@
 
 A simple planner.
 
-- ## [Planner](https://branched-roasted-sting.glitch.me/)
+- ## [Planner](https://to-do-project.glitch.me)
 
 ---
 
